@@ -1,0 +1,24 @@
+{
+    "name": "wise/omr",
+    "description": "Optical Mark Recognition from PHP",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "intervention/image": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Marcelo Carvalho",
+            "email": "marcelo.carvalho@wises.com.br"
+        }
+    ],
+    "keywords": [
+        "omr",
+        "optical mark recognition"
+    ],
+    "autoload": {
+        "psr-4": {
+            "wise\\omr\\": "src/"
+        }
+    }
+}
