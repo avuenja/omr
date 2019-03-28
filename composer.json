@@ -2,6 +2,7 @@
     "name": "fsw/omr",
     "description": "Optical Mark Recognition from PHP",
     "type": "library",
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {
         "intervention/image": "^2.4"
