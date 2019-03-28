@@ -5,7 +5,7 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
-        "intervention/image": "2.4.x"
+        "intervention/image": "2.3.x"
     },
     "authors": [
         {
