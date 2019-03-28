@@ -1,5 +1,5 @@
 {
-    "name": "wise/omr",
+    "name": "fsw/omr",
     "description": "Optical Mark Recognition from PHP",
     "type": "library",
     "minimum-stability": "dev",
@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "wise\\omr\\": "src/"
+            "fsw\\omr\\": "src/"
         }
     }
 }
