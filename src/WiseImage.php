@@ -1,6 +1,6 @@
 <?php
 
-namespace wise\orm;
+namespace fsw\orm;
 
 use Intervention\Image\ImageManager;
 
